@@ -1,0 +1,6 @@
+[submodule "mattermost-webapp"]
+	path = mattermost-webapp
+	url = https://github.com/ashutoshpw/mattermost-webapp
+[submodule "mattermost-server"]
+	path = mattermost-server
+	url = https://github.com/ashutoshpw/mattermost-server
